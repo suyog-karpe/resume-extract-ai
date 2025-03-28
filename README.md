@@ -69,11 +69,13 @@ POST /extract-resume-file/
   "email": "john.doe@example.com",
   "address": "New York, USA",
   "Linkedin URL":"https://www.linkedin.com/in/john-doe/",
+  "current-designation": "Software Engineer",
   "primary-skills": ["Python", "Machine Learning"],
   "secondary-skills": ["Python", "Machine Learning"],
   "extraction_id": "uuid"
 }
 ```
+Skills seperated according to current designation
 
 #### Save Full JSON Data
 **Endpoint:**
