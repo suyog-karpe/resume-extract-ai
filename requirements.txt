@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+ollama
+python-docx
+pymupdf
+requests
+streamlit
