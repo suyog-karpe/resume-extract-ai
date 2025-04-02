@@ -108,7 +108,7 @@ POST /save-full-json/
 ```
 
 ### Contributing
-Contributing for NIRA HRMS Platform.
+Contributing for HRMS Platform.
 
 ### License
 qwen-research
