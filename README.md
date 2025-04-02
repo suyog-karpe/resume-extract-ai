@@ -25,7 +25,7 @@ AI-Resume-Extract is a FastAPI-based service and a dummy streamlit platform for 
 #### Setup
 ```sh
 # Clone the repository
-git clone https://git.aitglobalindia.com/suyog.karpe/nira-ai-resume-extract.git
+git clone https://github.com/suyog-karpe/resume-extract-ai.git
 
 # Create a virtual environment
 python -m venv resume
